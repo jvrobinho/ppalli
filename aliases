@@ -1,0 +1,5 @@
+alias desktop='cd ~/Desktop/'
+alias home='cd ~/'
+alias docs='cd ~/Documents/'
+alias python=python3
+
