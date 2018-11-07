@@ -1,10 +1,11 @@
 # ppalli
 Personal aliases &amp; functions to quicken repetitive tasks
 
----
+
+  
 ## Aliases
-
-
+  
+  
 ### home
 >Moves to `~/` directory
 
@@ -13,13 +14,11 @@ Personal aliases &amp; functions to quicken repetitive tasks
 
 ### desktop
 >Moves to `~/Desktop` directory 
- 
- 
- 
----
-## Functions
 
-
+  
+## Functions  
+  
+  
 ### pull-from
 >Runs `git pull https://github.com/user/rep branch`
 
